@@ -9,7 +9,7 @@ TO INSTALL: npm install -g json-server
 TO START: json-server --watch db.json
 ```
 
-Each burger that we `fetch` from the database should have the following classes when appending it to the DOM:
+<!-- Each burger that we `fetch` from the database should have the following classes when appending it to the DOM:
 
 ```
 <div class="burger">
@@ -20,11 +20,15 @@ Each burger that we `fetch` from the database should have the following classes 
     </p>
     <button class="button">Add to Order</button>
 </div>
-```
+``` -->
 
-After the burgers are appended to the `burger-menu`, customers can press on the `Add to Order` button, which will then append the name of the burger into the 'Your Order' list on the left of the page. For now, do not worry about the repeats. If a customer orders two Good Burgers, you can (and should) have two Good Burgers on your order list.
+<!-- After the burgers are appended to the `burger-menu`,  -->
 
-After that, build out the functionality that will allow customers to add their own burger creations to the menu. After submitting the form, the burger should be appended to the menu with the correct information typed in the form. It should also be added to customer's order as well as persist in the database, so that when we refresh the page, the burger is added to the menu for future customers.
+<!-- customers can press on the `Add to Order` button, which will then append the name of the burger into the 'Your Order' list on the left of the page. For now, do not worry about the repeats. If a customer orders two Good Burgers, you can (and should) have two Good Burgers on your order list. -->
+
+After that, build out the functionality that will allow customers to add their own burger creations to the menu.
+ After submitting the form, the burger should be appended to the menu with the correct information typed in the form.
+  It should also be added to customer's order as well as persist in the database, so that when we refresh the page, the burger is added to the menu for future customers.
 
 ## Demonstration
 ![](Demonstration.gif)

@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,72 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "nat",
+      "description": "lol",
+      "image": "https://images.app.goo.gl/stwiXAy4d3gA7oWWA",
+      "id": 12
+    },
+    {
+      "name": "cindys burger",
+      "description": "yummmyyyyzzzz",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 16
+    },
+    {
+      "name": "nat",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 17
+    },
+    {
+      "name": ".l.",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 18
+    },
+    {
+      "name": "baby",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 19
+    },
+    {
+      "name": "nat",
+      "description": "yummmyyyyzzzz",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 20
+    },
+    {
+      "name": "ramzys",
+      "description": "burgers yum",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 21
+    },
+    {
+      "name": "Baby",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 22
+    },
+    {
+      "name": "nat",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 23
+    },
+    {
+      "name": "dawda",
+      "description": "lol",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 24
+    },
+    {
+      "name": "nat",
+      "description": "yummmyyyyzzzz",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg",
+      "id": 25
     }
   ]
 }
